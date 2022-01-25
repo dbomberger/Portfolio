@@ -1,6 +1,6 @@
 # Power-BI-Projects
 
-During the course of the project, many basic and advanced topics of Power BI were covered like how to work with calculations, leverage the DAX language, create advanced queries. I also imported data from various sources, composed advanced formulas, managed the fields and columns in tables, used X-factor functions, conditional statements, filter results, design charts, and more.
+During the course of the project, many basic and advanced topics of Power BI were covered like how to work with calculations, leverage the DAX language, create advanced queries. I also imported data from various sources, composed advanced formulas, managed the fields and columns in tables, conditional statements, filter results, design charts, dynamic date definition and more.
 
 A few of my Learning Outcomes were:
 
