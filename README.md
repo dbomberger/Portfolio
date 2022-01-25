@@ -27,7 +27,3 @@ A few of my Learning Outcomes were:
 -SUMX and COUNTX
 
 -DATEDIFF, DATESBETWEEN, DATEADD
-
--MTD, QTD, and YTD
-
--Using X-factor functions
